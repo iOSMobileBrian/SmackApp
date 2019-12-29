@@ -65,10 +65,10 @@
             app:layout_constraintTop_toBottomOf="@+id/createPasswordTxt" />
 
     <ImageButton
-            android:id="@+id/cteateAvatarImageBtn"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="24dp"
+            android:id="@+id/createAvatarImageBtn"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_marginTop="8dp"
             android:background="@android:color/transparent"
             android:onClick="createAvatarClicked"
             app:layout_constraintEnd_toEndOf="parent"
@@ -91,7 +91,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/cteateAvatarImageBtn" />
+            app:layout_constraintTop_toBottomOf="@+id/createAvatarImageBtn" />
 
     <Button
             android:id="@+id/createUserBtn"
