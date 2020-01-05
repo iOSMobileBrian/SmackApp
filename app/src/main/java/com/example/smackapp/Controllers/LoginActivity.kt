@@ -1,9 +1,10 @@
-package com.example.smackapp
+package com.example.smackapp.Controllers
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import com.example.smackapp.R
 
 class LoginActivity : AppCompatActivity() {
 
