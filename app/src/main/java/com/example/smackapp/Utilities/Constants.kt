@@ -5,3 +5,8 @@ const val URL_REGISTER = "${BASE_URL}account/register"
 const val URL_AUTH_LOGIN = "${BASE_URL}account/login"
 const val URL_CREATE_USER = "${BASE_URL}user/add"
 
+
+//Broadcast
+
+const val BROADCAST_USER_DATA_CHANGE = "BROADCAST USER DATA CHNAGE"
+
