@@ -1,4 +1,4 @@
-package com.example.smackapp.Services
+package com.example.smackapp.services
 
 import android.graphics.Color
 import java.util.*
@@ -52,7 +52,7 @@ object UserDataService {
         }
 
 
-        return  Color.rgb(r.g.b)
+        return  Color.rgb(r,g,b)
 
 
     }

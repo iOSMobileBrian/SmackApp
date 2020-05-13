@@ -8,7 +8,7 @@ import android.support.v4.content.LocalBroadcastManager
 import android.view.View
 import android.widget.Toast
 import com.example.smackapp.R
-import com.example.smackapp.Services.AuthService
+import com.example.smackapp.services.AuthService
 import kotlinx.android.synthetic.main.activity_create_user.*
 import java.util.*
 

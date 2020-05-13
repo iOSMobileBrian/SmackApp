@@ -12,8 +12,8 @@ import android.support.v7.app.ActionBarDrawerToggle
 import android.support.v7.app.AppCompatActivity
 import android.view.View
 import com.example.smackapp.R
-import com.example.smackapp.Services.AuthService
-import com.example.smackapp.Services.UserDataService
+import com.example.smackapp.services.AuthService
+import com.example.smackapp.services.UserDataService
 import com.example.smackapp.Utilities.BROADCAST_USER_DATA_CHANGE
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.app_bar_main.*
